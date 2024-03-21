@@ -1,0 +1,17 @@
+{
+  "name": "shigure",
+  "version": "1.0.0",
+  "description": "discord bot for sky house discord server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts",
+    "update-command": "ts-node command_deployment.ts"
+  },
+  "author": "Cats_Sky",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ts-node": "^10.9.2"
+  }
+}

@@ -35,7 +35,7 @@ module.exports = {
 		messages?.reverse().forEach(m => console.log(m.content))
 		messages?.forEach(m => m.delete())
 
-		interaction.reply(`${userAt}喊出：「空空，遺忘」，抹除了所有人在${time}分鐘內對於他記憶。`)
+		interaction.reply(`${userAt}喊出：「空空，遺忘」，抹除了所有人在${time}分鐘內對於他的記憶。`)
 
 	},
 };

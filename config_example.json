@@ -1,0 +1,9 @@
+{
+    "token": "Discord bot token",
+    "mages": [
+        "User id 1",
+        "User id 2"
+    ],
+    "clientId": "Bot id",
+    "guildId": "Listening guild id"
+}
